@@ -1,2 +1,3 @@
 # Celebal-project
-This is the task allotted to me as my final internship completion project. 
+
+ Grouping customers based on their purchasing behavior and demographics to target marketing strategies effectively.
